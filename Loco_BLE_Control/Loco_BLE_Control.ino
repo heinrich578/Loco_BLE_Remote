@@ -3,14 +3,12 @@
 // Add the libraries to your Arduino IDE, can be added from the inbuilt library manager
 
 //https://github.com/Dlloydev/ESP32-ESP32S2-AnalogWrite
-#include <pwmWrite.h>    // ESP32-ESP32S2-AnalogWrite
+   // ESP32-ESP32S2-AnalogWrite
 
-//https://github.com/bxparks/AceRoutine
-#include <AceRoutine.h>  // AceRoutine
-using namespace ace_routine;
 
-#include "defaultLoco.h"
-#include "remotexyConfigs.h"
+
+"defaultLoco.h"
+"remotexyConfigs.h"
 
 //==============================================================================================
 // Uncomment below options for DEBUG purposes
